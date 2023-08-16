@@ -4,8 +4,8 @@ git init : 로컬 저장소 생성
 
 1. Working Directory(작업한 파일 상태) -> `git add` -> Staging Area(커밋할 파일 상태 목록) -> `git commit` -> Repository
 2. 사용자 설정
-    - git config --global user.email "kzoen0040@naver.com"
-    - git config --global user.name "zoe"
+    - git config --global user.email "email"
+    - git config --global user.name "name"
 
 예시
 - git add index.html => staging area에 추가히기 위해 사용. 
